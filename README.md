@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sadman Sakib Anik</h1>
-<h3 align="center">Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadmansakibanik&label=Profile%20views&color=0e75b6&style=flat" alt="sadmansakibanik" /> </p>
 
