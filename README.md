@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadmansakibanik&label=Profile%20views&color=0e75b6&style=flat" alt="sadmansakibanik" /> </p>
 
-<h3 align="left">My Handle:</h3>
+<h3 align="left">My Handles:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/im_anik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="im_anik" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/im_anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="im_anik" height="30" width="40" /></a>
