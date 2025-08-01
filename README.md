@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadman Sakib Anik</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate DevOps Engineer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadmansakibanik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -32,9 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadmansakibanik&layout=compact&theme=tokyonight" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sadmansakibanik&theme=tokyonight" height="150" />
-</p>
 
 ---
 
