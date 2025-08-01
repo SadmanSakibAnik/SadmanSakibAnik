@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadman Sakib Anik</h1>
-<h3 align="center">A passionate DevOps Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadmansakibanik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,11 +9,11 @@
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.codechef.com/users/im_anik" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" />
+  <a href="https://linkedin.com/in/sadman-sakib-anik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/aunik" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?&style=for-the-badge&logo=Codeforces&logoColor=white" />
+  <a href="mailto:ssanik121@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -42,3 +42,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadmansakibanik&theme=tokyo-night" alt="activity graph" />
 </p>
+
